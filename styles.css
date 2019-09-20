@@ -31,6 +31,10 @@ body, html {
 }
 .right {
     float: right;
+
+}
+.left{
+    float: left;
 }
 #divider1 {
     height: 290px;
@@ -51,4 +55,34 @@ body, html {
 #divider3 {
     height: 10px;
     width: 400px;
+}
+#bluebox {
+    height: 100px;
+    width: 100px;
+}
+#bottomrow{
+    height: 100px;
+    width: 400px;
+}
+
+#middlerow{
+    height: 10px;
+    width: 400px;
+}
+
+#divider4{
+    height: 100px;
+    width: 10px;
+}
+#yellowbox{
+    height: 100px;
+    width: 260px;
+}
+#smallbox1{
+    height: 45px;
+    width: 45px;
+}
+#divider5{
+    height: 100px;
+    width: 10px;
 }
